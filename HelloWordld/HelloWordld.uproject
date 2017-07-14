@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1E56379F-1307-150D-0039-02846C3796FA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HelloWordld",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
