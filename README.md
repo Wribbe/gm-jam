@@ -20,6 +20,7 @@ Dual purpose.
     - toner
     - låg -> tung
     - ljus -> lyft
+    - dra plattformar med ljud?
 
   - Title:
     - muse
